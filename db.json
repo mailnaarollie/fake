@@ -8,7 +8,8 @@
       "location": "Werchter",
       "date": "4-7 juli 2024",
       "time": "12:00",
-      "organisator": "Noël Steen"
+      "organisator": "Noël Steen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkPlXCkscB5PrcLjtu_NdorVXidJd9JOIa9Q&usqp=CAU"
     },
     {
       "id":2,
@@ -18,7 +19,8 @@
      "location": "Kiewit, Hasselt",
       "date": "15-18 augustus 2024",
       "time": "11:00",
-      "organisator": "Chokri Mahassine"
+      "organisator": "Chokri Mahassine",
+      "image": "https://festivalsbelgie.be/wp-content/uploads/2022/11/Logo.png"
     },
     {
       "id":3,
@@ -28,7 +30,8 @@
       "location": "Boom",
       "date": "19-21 juli en 26-28 juli 2024",
       "time": "11:00",
-      "organisator": "Weareone"
+      "organisator": "Weareone",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbOsetxj2oukhpfLGgg8qYNu62A-qzfb-EKg&usqp=CAU"
     }
   ]
 }
